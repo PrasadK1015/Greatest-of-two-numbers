@@ -4,7 +4,6 @@
 using namespace std;
 int main(){
 
-             //GREATEST OF TWO NUMBERS
 int x,y;
 cin>>x;
 cin>>y;
